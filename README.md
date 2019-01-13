@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<h3>Money: <span id="money">0</span>  MPS: <span id="moneyPerSecond">0</span><br /> <button onclick="moneyClick()">Hack</button></h3>
+	<h3>Money: <span id="money">0</span>  MPS: <span id="moneyPerSecond">0</span><br /> <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1082755/LINEStorePC/main.png;compress=true?__=20161019" onclick="moneyClick()">Hack</img src="https://stickershop.line-scdn.net/stickershop/v1/product/1082755/LINEStorePC/main.png;compress=true?__=20161019"></h3>
   </head>
   <body>
 	<h3> Hacker Earnings</h3>
