@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-The reason chickens cannot fly high becaues they don't have faith in their wing or maybe they are born to be eaten.
-
-<embed src="Chi.mp3" loop="true" autostart="true" hidden="true">
-
+<p>The reason chickens cannot fly high becaues they don't have faith in their wing or maybe they are born to be eaten</p>
 <html>
   <head>
   <h3>Money: <span id="money">0</span>  MPS: <span id="moneyPerSecond">0</span><br /> <img src="https://stickershop.line-scdn.net/stickershop/v1/product/1082755/LINEStorePC/main.png;compress=true?__=20161019" onclick="moneyClick()">Hack</img src="https://stickershop.line-scdn.net/stickershop/v1/product/1082755/LINEStorePC/main.png;compress=true?__=20161019"></h3>
