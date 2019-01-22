@@ -9,7 +9,7 @@
   <p><button onclick="buyBeginner()">Buy Beginner</button> Cost: <span id="beginnerCost">10</span></p>
   <p>Click Upgrade: <span id="clickUpgradeCost">50</span> <button onclick="buyClickUpgrade()">Buy Click Upgrade</button>
   </body>
-
+<embed src="gro.mp3" loop="true" autostart="true" hidden="true">
 
 
 
@@ -77,7 +77,7 @@ window.setInterval(clicks, 1);
 
 
 </script>
-
-<embed src="gro.mp3" loop="true" autostart="true" hidden="true">
-
 </html>
+
+
+
